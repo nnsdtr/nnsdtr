@@ -5,7 +5,7 @@
 
 Trabalho com `S/4HANA Cloud` bem no olho do furacão da integração fiscal brasileira. Faço parte do time do **S4TAX**, um middleware `ABAP` que conecta o SAP ao universo fiscal lá fora. NF-e, NFS-e, CT-e, SPED, GNRE, CIAP, contabilidade e o que mais o fisco inventar.
 
-Levo **Clean Code** a sério. `ABAP` moderno, **SOLID** na medida certa, cada classe com uma responsabilidade clara. Overengineering pra mim é bagunça com grife. Código bom é código que o próximo dev lê e entende sem precisar te ligar.
+Sou apaixonado por **Orientação a Objetos** e levo **Clean Code** a sério. `ABAP` moderno, **SOLID** na medida certa, cada classe com uma responsabilidade clara. Overengineering pra mim é bagunça com grife. Código bom é código que o próximo dev lê e entende sem precisar te ligar.
 
 Nos projetos pessoais, curto Web Development e `Java`. No trabalho, `Python`, `Bash` e `PowerShell` são meus canivetes suíços pra monitorar performance, entender gargalos e criar ferramentas que facilitam o dia a dia.
 
