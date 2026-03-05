@@ -27,6 +27,4 @@ Quando não estou codando, provavelmente estou ouvindo música — ou fazendo os
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nnsdtr&show_icons=true&locale=en&theme=default" alt="nnsdtr" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nnsdtr&" alt="nnsdtr" /></p>
