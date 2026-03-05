@@ -16,6 +16,7 @@ Quando não estou codando, provavelmente estou ouvindo música. Ou, mais provave
 <h3 align="left">Stack:</h3>
 <p align="left">
 <!-- SAP -->
+<img src="https://img.shields.io/badge/S%2F4HANA%20Cloud-0FAAFF?style=flat&logo=sap&logoColor=white" alt="S/4HANA Cloud" />
 <img src="https://img.shields.io/badge/ABAP%20Cloud-0FAAFF?style=flat&logo=sap&logoColor=white" alt="ABAP Cloud" />
 <img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat&logo=sap&logoColor=white" alt="SAP BTP" />
 <img src="https://img.shields.io/badge/SAP%20Fiori-0FAAFF?style=flat&logo=sap&logoColor=white" alt="SAP Fiori" />
@@ -32,3 +33,4 @@ Quando não estou codando, provavelmente estou ouvindo música. Ou, mais provave
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </p>
+
