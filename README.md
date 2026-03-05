@@ -3,13 +3,13 @@
 
 ---
 
-Desenvolvedor SAP especializado em `S/4HANA Cloud` com foco em integração fiscal brasileira. Trabalho no **S4TAX**, um middleware `ABAP` que conecta o ecossistema SAP a plataformas fiscais externas — NF-e, NFS-e, CT-e, SPED Fiscal, GNRE, CIAP, contabilidade e o que mais o fisco inventar.
+Trabalho com `S/4HANA Cloud` bem no olho do furacão da integração fiscal brasileira. Faço parte do time do **S4TAX**, um middleware `ABAP` que conecta o SAP ao universo fiscal lá fora. NF-e, NFS-e, CT-e, SPED, GNRE, CIAP, contabilidade e o que mais o fisco inventar.
 
-Defensor de **Clean Code** e **ABAP moderno** — sem notação húngara, sem código procedural, sem atalhos. Aplico **SOLID** com pragmatismo, porque overengineering é só bagunça com grife. Cada classe tem uma responsabilidade, cada método conta uma história.
+Levo **Clean Code** a sério. `ABAP` moderno, **SOLID** na medida certa, cada classe com uma responsabilidade clara. Overengineering pra mim é bagunça com grife. Código bom é código que o próximo dev lê e entende sem precisar te ligar.
 
-Também uso `Python` para análise de dados e ferramentas de apoio ao desenvolvimento. 
+Nos projetos pessoais, curto Web Development e `Java`. No trabalho, `Python`, `Bash` e `PowerShell` são meus canivetes suíços pra monitorar performance, entender gargalos e criar ferramentas que facilitam o dia a dia.
 
-Quando não estou codando, provavelmente estou ouvindo música — ou fazendo os dois ao mesmo tempo.
+Quando não estou codando, provavelmente estou ouvindo música. Ou, mais provavelmente, fazendo os dois ao mesmo tempo.
 
 ---
 
