@@ -9,7 +9,9 @@ Desenvolvedor SAP especializado em `S/4HANA Cloud` com foco em integração fisc
 
 Defensor de **Clean Code** e **ABAP moderno** — sem notação húngara, sem código procedural, sem atalhos. Aplico **SOLID** com pragmatismo, porque overengineering é só bagunça com grife. Cada classe tem uma responsabilidade, cada método conta uma história.
 
-Também uso `Python` para análise de dados e ferramentas de apoio ao desenvolvimento. Quando não estou codando, provavelmente estou ouvindo música — ou fazendo os dois ao mesmo tempo.
+Também uso `Python` para análise de dados e ferramentas de apoio ao desenvolvimento. 
+
+Quando não estou codando, provavelmente estou ouvindo música — ou fazendo os dois ao mesmo tempo.
 
 ---
 
