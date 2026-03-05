@@ -1,8 +1,6 @@
 <h1 align="center">E aí! 👋 Eu sou o Dan</h1>
 <h3 align="center">ABAP Developer | Movido a código e música</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nnsdtr&label=Profile%20views&color=0e75b6&style=flat" alt="nnsdtr" /> </p>
-
 ---
 
 Desenvolvedor SAP especializado em `S/4HANA Cloud` com foco em integração fiscal brasileira. Trabalho no **S4TAX**, um middleware `ABAP` que conecta o ecossistema SAP a plataformas fiscais externas — NF-e, NFS-e, CT-e, SPED Fiscal, GNRE, CIAP, contabilidade e o que mais o fisco inventar.
