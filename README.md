@@ -18,9 +18,8 @@ When I'm not coding, I'm probably listening to music. Or, more likely, doing bot
 <!-- SAP -->
 <img src="https://img.shields.io/badge/S%2F4HANA%20Cloud-0FAAFF?style=flat&logo=sap&logoColor=white" alt="S/4HANA Cloud" />
 <img src="https://img.shields.io/badge/ABAP%20Cloud-0FAAFF?style=flat&logo=sap&logoColor=white" alt="ABAP Cloud" />
-<img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=flat&logo=sap&logoColor=white" alt="SAP BTP" />
-<img src="https://img.shields.io/badge/SAP%20Fiori-0FAAFF?style=flat&logo=sap&logoColor=white" alt="SAP Fiori" />
 <!-- Web -->
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
