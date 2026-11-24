@@ -3,13 +3,13 @@
 
 ---
 
-Trabalho com `S/4HANA Cloud` bem no olho do furacão da integração fiscal brasileira. Faço parte do time do **S4TAX**, um middleware `ABAP` que conecta o SAP ao universo fiscal lá fora. NF-e, NFS-e, CT-e, SPED, GNRE, CIAP, contabilidade e o que mais o fisco inventar.
+I work with `S/4HANA Cloud` right in the eye of the storm of Brazilian tax integration. I'm part of the **S4TAX** team, an `ABAP` middleware that connects SAP to the tax universe out there. NF-e, NFS-e, CT-e, SPED, GNRE, CIAP, accounting, and whatever else the tax authorities come up with.
 
-Sou apaixonado por **Orientação a Objetos** e levo **Clean Code** a sério. `ABAP` moderno, **SOLID** na medida certa, cada classe com uma responsabilidade clara. Overengineering pra mim é bagunça com grife. Código bom é código que o próximo dev lê e entende sem precisar te ligar.
+I'm passionate about **Object-Oriented Programming** and take **Clean Code** seriously. Modern `ABAP`, **SOLID** in the right measure, each class with a clear responsibility. To me, overengineering is just a designer-label mess. Good code is code the next dev can read and understand without having to call you.
 
-Nos projetos pessoais, curto Web Development e `Java`. No trabalho, `Python`, `Bash` e `PowerShell` são meus canivetes suíços pra monitorar performance, entender gargalos e criar ferramentas que facilitam o dia a dia.
+In my personal projects, I enjoy Web Development and `Java`. At work, `Python`, `Bash`, and `PowerShell` are my Swiss Army knives for monitoring performance, understanding bottlenecks, and building tools that make day-to-day life easier.
 
-Quando não estou codando, provavelmente estou ouvindo música. Ou, mais provavelmente, fazendo os dois ao mesmo tempo.
+When I'm not coding, I'm probably listening to music. Or, more likely, doing both at the same time.
 
 ---
 
