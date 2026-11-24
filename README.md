@@ -1,4 +1,4 @@
-<h1 align="center">E aí! 👋 Eu sou o Dan</h1>
+<h1 align="center">Hi! 👋 I'm Dan</h1>
 <h3 align="center">ABAP Developer | Movido a código e música</h3>
 
 ---
