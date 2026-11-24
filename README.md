@@ -1,5 +1,5 @@
-<h1 align="center">Hi! 👋 I'm Dan</h1>
-<h3 align="center">ABAP Developer | Movido a código e música</h3>
+<h1 align="center">Hi! 👋 This is Dan</h1>
+<h3 align="center">ABAP Developer | Fueled by code and music</h3>
 
 ---
 
